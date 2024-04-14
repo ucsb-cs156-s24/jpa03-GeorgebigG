@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# GeorgebigG-jpa03
 
 ```
 TODO: Change link below from the example running app to your own running app
